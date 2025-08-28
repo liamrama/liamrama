@@ -1,6 +1,5 @@
 <h1>
-  Hi, I'm Liam,
-  welcome to my showcase! <br/>
+ Welcome, my name is Liam! <br/>
 <h2> :lock: 💻 Cybersecurity/IT Projects: 💻:lock: </h2>
 
 - [Active Directory Homelab] 
