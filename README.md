@@ -2,7 +2,8 @@
  Welcome to my Projects portfolio! <br/>
 <h2> :lock: 💻 Cybersecurity/IT Projects: 💻:lock: </h2>
 
-- [Active Directory Homelab](https://github.com/ramadiation/Active-Directory-Lab-1) 
+- [Active Directory Lab](https://github.com/ramadiation/Active-Directory-Lab-1)
+- [Ticketing System Lab](https://github.com/liamrama/osTicket-Lab-on-Azure)
 
 <h2>Certifications</h2>
 
