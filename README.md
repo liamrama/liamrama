@@ -8,7 +8,7 @@
 ### [Ticketing System Lab](https://github.com/liamrama/osTicket-Lab-on-Azure)
 - Azure-hosted helpdesk ticketing system running on Windows Server 2022 VM using XAMPP. Firewall hardening, web server and database configuration, and osTicket hands-on experience.
 
-### [Network Analysis Lab](https://github.com/liamrama/Network-Analysis-Lab)
+### [Network Analysis Lab](https://github.com/liamrama/Network-Analysis-Lab) (IN PROGRESS)
 - Simulating and diagnosing client-server networking issues using Wireshark to capture and analyze packet-level traffic between Azure VMs, hardening firewall policies, and using TCP/IP,
   SSH, HTTP, ICMP and Azure NSGs in a practical environment.
 
