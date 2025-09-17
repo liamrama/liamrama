@@ -4,6 +4,7 @@
 
 - [Active Directory Lab](https://github.com/ramadiation/Active-Directory-Lab-1)
 - [Ticketing System Lab](https://github.com/liamrama/osTicket-Lab-on-Azure)
+- [Network Analysis Lab](https://github.com/liamrama/Network-Analysis-Lab)
 
 <h2>Certifications</h2>
 
